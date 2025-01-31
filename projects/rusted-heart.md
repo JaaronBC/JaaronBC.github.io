@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/RustedHeart.png
 title: "Rusted Heart"
 date: 2024
 published: true
