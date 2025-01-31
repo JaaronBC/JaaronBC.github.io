@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "JaaronBC", "url": "http://github.com/JaaronBC" },
       { "network": "linkedin", "username": "JaaronC", "url": "https://www.linkedin.com/in/jaaron-cabsaban-b513b6347/" },
-      { "network": "Email", "username": "Jaaron4401@gmail.com", "url": "jaaron4401@gmail.com" }
+      { "networ": "Email", "username": "Jaaron4401@gmail.com", "url": "jaaron4401@gmail.com" }
     ]
   },
   "interests": [
@@ -85,7 +85,7 @@
       "title": "IC3 certification",
       "date": "2016",
       "awarder": "Ceriport",
-      "summary": "Verifies digital litercy/skills"
+      "summary": ""
     },
     {
       "title": "Workplace readiness certification",
