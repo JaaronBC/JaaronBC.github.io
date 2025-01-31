@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JaaronBC", "url": "http://github.com/JaaronBC" },
-      { "network": "linkedin", "username": "JaaronC", "url": "https://www.linkedin.com/in/jaaron-cabsaban-b513b6347/" },
-      { "networ": "Email", "username": "Jaaron4401@gmail.com", "url": "jaaron4401@gmail.com" }
+      { "network": "linkedin", "username": "JaaronC", "url": "https://www.linkedin.com/in/jaaron-cabsaban-b513b6347/" }
     ]
   },
   "interests": [
