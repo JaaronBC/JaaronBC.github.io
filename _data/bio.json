@@ -7,11 +7,11 @@
     "phone": "(757)775-6056",
     "website": "https://JaaronBC.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "96706", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JaaronBC", "url": "http://github.com/JaaronBC" },
       { "network": "linkedin", "username": "JaaronC", "url": "https://www.linkedin.com/in/jaaron-cabsaban-b513b6347/" },
-      { "network": "Email", "username": "Jaaron", "url": "jaaron4401@gmail.com" }
+      { "network": "Email", "username": "Jaaron4401@gmail.com", "url": "jaaron4401@gmail.com" }
     ]
   },
   "interests": [
@@ -40,7 +40,7 @@
       ]
     }
   ],
-  "work": [
+  "wor": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -70,9 +70,9 @@
     {
       "organization": "Navy JROTC",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "positin": "Software Developer",
+      "startDate": "2015",
+      "endDate": "2019",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
@@ -93,7 +93,7 @@
       ]
     }
   ],
-  "certifications": [
+  "awards": [
     {
       "title": "IC3 certification",
       "date": "2016",
@@ -103,7 +103,7 @@
     {
       "title": "Workplace readiness certification",
       "date": "2016",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "awarder": "American College Testing",
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
