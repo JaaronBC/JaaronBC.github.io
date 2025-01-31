@@ -68,14 +68,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Navy JROTC",
+      "organization": "",
       "website": "http://manoa.hawaii.edu/reis",
-      "positin": "Software Developer",
+      "position": "Navy JROTC",
       "startDate": "2015",
       "endDate": "2019",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Participated in community service projects",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
