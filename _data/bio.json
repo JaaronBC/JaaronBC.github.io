@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS 111", "ICS 211", "ICS 241", "ICS 242", "ICS 311", "ICS 314"
       ]
     }
   ],
@@ -73,8 +73,8 @@
       "position": "Navy JROTC",
       "startDate": "2015",
       "endDate": "2019",
-      "summary": "",
-      "highlights": [
+      "summary": "Navy Sponsored club, where students can develop leadership skills while particpating in community service projects",
+      "highights": [
         "Participated in various community service projects",
         ""
       ]
@@ -91,7 +91,7 @@
       "title": "Workplace readiness certification",
       "date": "2016",
       "awarder": "American College Testing",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": ""
     }
   ],
   "references": [
