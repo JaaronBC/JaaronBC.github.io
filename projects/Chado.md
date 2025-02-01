@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RustedHeart.png
+image: img/Chado-Square.jpg
 title: "Chado-A Japanese Tea Ceremony"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A tea ceremony that I helped prepare"
 ---
 
-<img class="img-fluid" src="../img/RustedHeart.png">
+<img class="img-fluid" src="../img/Chado-Ceremony.jpg">
 
 Chado is a Japanese Tea Ceremony, that places an emphasis on creating a bond between the Host and the Guest through a rigid ceremony. One way the ceremony creates this bond is having a small entramce point which forces each guess to bow before entering, so no matter how highly ranked you are you are but a humble guest. Before the ceremony, there are many points where the guest must must show respect to the decorations that the host had prepared for them. When the guest is seated sweets, are brought to them by the host and then which the host starts the tea making ceremony. The ceremony consist of many rigid steps and specific tools to show resepct to the guest.
 
