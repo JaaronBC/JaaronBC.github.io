@@ -25,5 +25,10 @@ Labels:
      -Displays all user created recipes
    -Individual recipe page
      -Instructions
-4. s
-5. 
+     -Authors projected cost/difficulty
+4. use case ideas
+   -User goes to
+5. beyond basics
+   -Rating system for recipes
+   -direct message system if a student has a question to another student
+   -Search system to find specific recipes/genres
