@@ -1,8 +1,9 @@
 ---
 Layout: essay
 Type: essay
-Title: “Final Project Idea”
+Title: Final Project Idea
 Date: 2025-04-01
+published: true
 Labels: 
 - Software engineering
 - Nextjs
