@@ -9,10 +9,10 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-####
+# ChowHub
 ### 1. Overview
-   - Problem: UHM students often need help finding meals that fit their budget and living conditions.
-   - Solution: TitlePending is an application that seeks to provide a way for UHM students to find recipes from people with similar situation to the ones they are in. Allowing them to see recipes created by other students.
+   - Problem: Due to many students in college starting living alone for the first time, they often find it difficult to find recipes that fit their budget and liviing spaces.
+   - Solution: ChowHub is an application that seeks to provide a way for UHM students to find recipes from people with similar situation to the ones they are in. Allowing them to see recipes created by other students so that they might find inspiration to cook new foods that fit their budget and situations.
 ### 2. Names of Proposers
    - Jaaron Cabsaban
 ### 3. Mockup page ideas
