@@ -1,7 +1,7 @@
 ---
 Layout: essay
 Type: essay
-Title: “final project Idea”
+Title: “Final Project Idea”
 Date: 2025-04-01
 Labels: 
 - Software engineering
@@ -10,7 +10,7 @@ Labels:
 
 1. Overview
    - Problem: UHM students often struggle to find cheap meals
-   - Solution: TitlePending is an application for UHM students to share recipes that they made, while sharing potential cost, how/where they   obtained ingredients, difficulty rating, with instructions on how to make them.
+   - Solution: TitlePending is an application for UHM students to share recipes that they made, while sharing potential cost, how/where they   obtained ingredients, difficulty rating, instruction on how to make each recipe.
 2. Names of Proposers
    - Jaaron Cabsaban
 3. Mockup page ideas
@@ -26,8 +26,10 @@ Labels:
      - Instructions
      - Authors projected cost/difficulty
 4. use case ideas:
-   - User goes to
+   - User goes to logins in the landing page
+   - 
 5. beyond basics
    - Rating system for recipes
    - direct message system if a student has a question to another student
    - Search system to find specific recipes/genres
+   - 
