@@ -11,7 +11,7 @@ Labels:
 1. Overview
    Problem: UHM students often struggle to find cheap meals
    
-   Solution: TitlePending is an application for UHM students to share recipes that       they made, while sharing potential cost, how/where they obtained ingredients,         difficulty rating, with instructions on how to make them.
+   Solution: TitlePending is an application for UHM students to share recipes that they made, while sharing potential cost, how/where they   obtained ingredients, difficulty rating, with instructions on how to make them.
 2. Names of Proposers
    -Jaaron Cabsaban
 3. Mockup page ideas
