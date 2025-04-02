@@ -1,12 +1,13 @@
 ---
-Layout: essay
-Type: essay
-Title: Final Project Idea
-Date: 2025-04-01
+layout: essay
+type: essay
+title: "Final Project Idea"
+# All dates must be YYYY-MM-DD format!
+date: 2025-04-01
 published: true
-Labels: 
-- Software engineering
-- Nextjs
+labels:
+  - Software Engineering
+  - Nextjs
 ---
 
 1. Overview
