@@ -9,13 +9,13 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-
-1. Overview
+####
+### 1. Overview
    - Problem: UHM students often need help finding meals that fit their budget and living conditions.
-   - Solution: TitlePending is an application for UHM students to share recipes that they made, while sharing potential cost, how/where they   obtained ingredients, difficulty rating, instruction on how to make each recipe.
-2. Names of Proposers
+   - Solution: TitlePending is an application that seeks to provide a way for UHM students to find recipes from people with similar situation to the ones they are in. Allowing them to see recipes created by other students.
+### 2. Names of Proposers
    - Jaaron Cabsaban
-3. Mockup page ideas
+### 3. Mockup page ideas
    - Home page
    - User Login page
    - User profile page:
@@ -28,11 +28,11 @@ labels:
    - Individual recipe page
      - Instructions
      - Authors projected cost/difficulty
-4. use case ideas:
+### 4. use case ideas:
    - User goes to logins in the landing page, logs in/signs up, gets home page
    - User uploads a new recipe to be displayed
    - User can find and save recipes that interest them
-5. beyond basics
+### 5. beyond basics
    - Rating system for recipes
    - direct message system if a student has a question to another student
    - Search system to find specific recipes/genres
