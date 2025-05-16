@@ -1,9 +1,7 @@
-
 ---
 layout: essay
 type: essay
 title: "Learning Efficiency with Software Engineering"
-# All dates must be YYYY-MM-DD format!
 date: 2025-05-16
 published: true
 labels:
