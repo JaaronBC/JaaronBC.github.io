@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/206130612.jpeg
+image: img/cultural.jpg
 title: "Club Organizers"
 date: 2024
 published: true
