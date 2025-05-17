@@ -25,7 +25,7 @@ I did not use AI during essays as I feel it slows me down and have less creativi
 #### Final project
 I used AI to find error that I did not understand as I was unfamiliar with the applications such as NextJS and Supabase.
 #### Learning a concept / tutorial
-#### I often used AI for learning concepts as it summarizes information, however I felt that if I used it too often it would hinder my learning
+I often used AI for learning concepts as it summarizes information, however I felt that if I used it too often it would hinder my learning
 #### Asking or answering a smart-question
 I research google first, then AI, and if I could not find a solution I would ask a smart question in discord or in class
 #### Writing code
