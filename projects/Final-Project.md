@@ -6,8 +6,10 @@ title: "Club Organizers"
 date: 2024
 published: true
 labels:
-  -
-  - 
+  -Github
+  -NextJS
+  -Vercel
+  
 summary: "Club Organizers is a centralized platform dedicated to showcasing the diverse range of student organizations at the University of Hawaiʻi at Mānoa"
 ---
 
